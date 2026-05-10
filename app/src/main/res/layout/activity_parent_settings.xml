@@ -147,8 +147,10 @@
                 android:layout_width="280dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="8dp"
+                android:layout_marginBottom="10dp"
                 android:text="@string/change_pin_title"
+                android:textSize="16sp"
+                android:minHeight="52dp"
                 style="@style/Widget.Material3.Button.OutlinedButton" />
 
             <Button
@@ -156,8 +158,10 @@
                 android:layout_width="280dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="8dp"
+                android:layout_marginBottom="10dp"
                 android:text="@string/apply_penalty_title"
+                android:textSize="16sp"
+                android:minHeight="52dp"
                 style="@style/Widget.Material3.Button.OutlinedButton" />
 
             <Button
@@ -165,8 +169,10 @@
                 android:layout_width="280dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="8dp"
+                android:layout_marginBottom="10dp"
                 android:text="@string/manage_tasks"
+                android:textSize="16sp"
+                android:minHeight="52dp"
                 style="@style/Widget.Material3.Button.OutlinedButton" />
 
             <Button
@@ -174,8 +180,10 @@
                 android:layout_width="280dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="8dp"
+                android:layout_marginBottom="10dp"
                 android:text="@string/add_bonus_time"
+                android:textSize="16sp"
+                android:minHeight="52dp"
                 style="@style/Widget.Material3.Button.OutlinedButton" />
 
             <Button
@@ -183,8 +191,10 @@
                 android:layout_width="280dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="8dp"
+                android:layout_marginBottom="10dp"
                 android:text="@string/transaction_history"
+                android:textSize="16sp"
+                android:minHeight="52dp"
                 style="@style/Widget.Material3.Button.OutlinedButton" />
 
         </LinearLayout>
