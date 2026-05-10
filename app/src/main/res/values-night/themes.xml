@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TimeBank" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/coral</item>
+        <item name="colorPrimaryVariant">@color/coral_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_bright</item>
+        <item name="colorSecondaryVariant">@color/teal_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/coral_dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowBackground">#FFF3E0</item>
+    </style>
+
+    <style name="Theme.TimeBank.Alert" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">#B71C1C</item>
+        <item name="android:navigationBarColor">#B71C1C</item>
+        <item name="android:windowBackground">#D32F2F</item>
+    </style>
+</resources>

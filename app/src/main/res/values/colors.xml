@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coral">#FF6B6B</color>
+    <color name="coral_dark">#D84A4A</color>
+    <color name="teal_bright">#4DD0E1</color>
+    <color name="teal_dark">#0097A7</color>
+    <color name="amber_light">#FFF8E1</color>
+    <color name="sunny_yellow">#FFD54F</color>
+
+    <color name="timer_green">#66BB6A</color>
+    <color name="timer_yellow">#FFB300</color>
+    <color name="timer_red">#EF5350</color>
+    <color name="timer_bg">#E8E0D8</color>
+    <color name="timer_text">#4E342E</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
